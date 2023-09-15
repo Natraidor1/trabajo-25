@@ -1,0 +1,61 @@
+.nata1{
+    border-style: solid;
+    border-radius: 5px 5px 0px 0px;
+    background-color: skyblue;
+    color: cornflowerblue;
+    border-color: black;
+
+    
+}
+
+.nata1 img{
+    height: 200px;
+    width: 200px;
+}
+
+#nata2{
+    border-style: solid;
+    border-radius: 0px 0px 5px 5px;
+    background-color: skyblue;
+
+}
+
+#nata3{
+    border-style: solid;
+    border-radius: 5px 5px 0px 0px;
+    background-color: green;
+    color: white;
+    border-color: black;
+
+}
+
+#nata4{
+    border-style: solid;
+    border-radius: 0px 0px 5px 5px;
+    background-color: skyblue;
+    color: white;
+    border-color: black;
+
+}
+
+#nata5{
+    border-style: solid;
+    border-radius: 0px 0px 5px 5px;
+    background-color: skyblue;
+    color: white;
+    border-color: black;
+    height: 4rem;
+
+}
+
+#nata6{
+    border-style: solid;
+    border-radius: 5px 5px 5px 5px;
+    padding: 5px 5px 5px 5px;
+    background-color: white;
+    color: white;
+    border-color: black;
+    font-size: large;
+}
+
+
